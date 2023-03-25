@@ -1061,20 +1061,19 @@
         "hideSelfView": "Verberg eigen beeld",
         "kick": "Verwijderen",
         "mirrorVideo": "Mijn camera omdraaien",
-        "verify": "Verifiëer",
         "moderator": "Moderator",
         "mute": "Deelnemer is gedempt",
         "muted": "Gedempt",
         "pinToStage": "Vastzetten op podium",
         "remoteControl": "Extern beheer starten / stoppen",
         "screenSharing": "Deelnemer deelt zijn/haar scherm",
-        "showSelfView": "Eigen camera laten zien",
         "show": "Op podium weergeven",
+        "showSelfView": "Eigen camera laten zien",
         "unpinFromStage": "Losmaken van podium",
+        "verify": "Verifiëer",
         "videoMuted": "Camera uitgeschakeld",
         "videomute": "Deelnemer heeft de camera gestopt"
-    },
-    
+    }, 
     "virtualBackground": {
         "addBackground": "Achtergrond toevoegen",
         "apply": "Toepassen",
